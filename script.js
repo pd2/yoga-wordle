@@ -17049,7 +17049,7 @@
                                     onCopy: function() {
                                         return le(!0)
                                     },
-                                    text: "\uD83E\uDDD8 Yoga Wordle #".concat(n, " ").concat(G, "/").concat(5).concat(P ? "" : "*", "\n").concat("\nhttps://yoga-wordle.glitch.me/"),
+                                    text: "\uD83E\uDDD8 Yoga Wordle #".concat(n, " ").concat(G, "/").concat(5).concat(P ? "" : "*", "\n").concat("\nhttps://pd2.github.io/yoga-wordle/"),
                                     children: (0,
                                     at.jsx)(zy, {
                                         className: "copyButton",
