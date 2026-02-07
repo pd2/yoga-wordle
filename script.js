@@ -16710,7 +16710,7 @@
                 }
                 )),
                 i = u(new Set(i));
-                const path = 'https://cdn.glitch.global/9fcaeb22-d52b-455e-bcc8-820c4a9fd067/';
+                const path = 'https://pd2.github.io/yoga-hangman/assets/';
                 var l = ot[n].name
                   , s = l.replace(/[a-zA-Z]/g, "_")
                   , f = path + ot[n].img + '.png'
