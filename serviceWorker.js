@@ -1,5 +1,5 @@
 const staticDev = "yoga_wordle"
-const service_worker_version = "v1.01"
+const service_worker_version = "v1.02"
 const assets = [
   "/",
   "index.html",
