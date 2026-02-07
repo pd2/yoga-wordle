@@ -4,7 +4,7 @@
   "start_url": "https://pd2.github.io/yoga-wordle/",
   "icons": [
     {
-      "src": "https://cdn.glitch.global/75a26b4a-4bb1-45ba-9d6f-05ff0daf12c3/yoga_wordle.png",
+      "src": "yoga_wordle.png",
       "sizes": "256x256",
       "type": "image/jpg"
     }
