@@ -17188,7 +17188,11 @@
                             at.jsx)("br", {}), (0,
                             at.jsx)(Py, {
                                 children: "2024, Pradeep D, iSeek. Courtesy: J.Y.R. Images: Vinay Siddaiah, yogavijnana.in"
-                            }), (0,
+                            }),  (0,
+                            at.jsx)(Dy, { target: "_blank", 
+                                         href: "https://iseek.pradeepd.com/", 
+                                         children: "Supported by iseek.pradeepd.com" }),
+                                       (0,
                             at.jsx)("br", {}), (0,
                             at.jsxs)("div", {
                                 className: "colorblind",
