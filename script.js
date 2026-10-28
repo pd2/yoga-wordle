@@ -16680,7 +16680,7 @@
                 return t < 16 ? "28px" : t < 20 ? "24px" : t < 23 ? "20px" : t < 30 ? "18px" : void 0
             }
             ))
-              , Dy = Ue.a(fy || (fy = i(["\n  color: white;\n  margin-top: 4px;\n  margin-bottom: 2px;\n  font-size: 15px;\n"])))
+              , Dy = Ue.a(fy || (fy = i(["\n  color: black;\n  margin-top: 4px;\n  margin-bottom: 2px;\n  font-size: 15px;\n"])))
               , Ly = Ue.button(py || (py = i(["\n  font-size: 24px;\n  border-radius: 8px;\n  background-color: #61dafb;\n  color: #282c34;\n  padding: 12px;\n  width: 100%;\n  margin: 20x;\n  text-align: center;\n  margin-bottom: 20px;\n"])))
               , Fy = Ue.button(dy || (dy = i(["\n  font-size: 14px;\n  background-color: #282c34;\n  color: white;\n  text-align: center;\n  display: inline-block;\n  border: none;\n  padding: 0;\n  text-decoration: underline;\n"])))
               , Uy = Ue.a(hy || (hy = i(["\n  font-size: 14px;\n  color: white;\n"])))
